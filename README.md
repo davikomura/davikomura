@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @davikomura
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML 5
-- 💞️ I’m looking to collaborate on ...
+- 👋 Oi, me chamo @davikomura
+- Aluno de Graduação em Matemática e Data Science
 - 📫 instagram: @davi_komura20 
 
 <!---
