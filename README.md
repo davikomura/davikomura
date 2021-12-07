@@ -1,6 +1,7 @@
 - 👋 Oi, me chamo @davikomura
 - Aluno de Graduação em Matemática e Data Science
-- 📫 instagram: @davi_komura20 
+- 📫 instagram: @davi_komura20
+-  Linkedin: linkedin.com/in/davikomura-2099/
 
 <!---
 davikomura/davikomura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
