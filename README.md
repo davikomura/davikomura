@@ -7,8 +7,6 @@
     </tr>   
 </table>
 
-
-
 - 👋 Oi, me chamo @davikomura
 - Aluno de Graduação em Matemática e Data Science
 - 📫 instagram: @davi_komura20
