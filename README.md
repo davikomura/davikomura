@@ -1,3 +1,14 @@
+### Hi there :bowtie:
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anolivei&hide=html&layout=compact&theme=tokyonight" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=anolivei&theme=tokyonight"/></td>
+    </tr>   
+</table>
+
+
+
 - 👋 Oi, me chamo @davikomura
 - Aluno de Graduação em Matemática e Data Science
 - 📫 instagram: @davi_komura20
