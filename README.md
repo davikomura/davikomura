@@ -1,5 +1,8 @@
 ### Hi there :bowtie:
 <center>
+<a href="https://github.com/davikomura">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupreet&theme=light&hide_langs_below=1" />
+</a>
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&hide=html&layout=compact&theme=tokyonight" /></td>
