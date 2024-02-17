@@ -6,17 +6,18 @@
 <a href="https://github.com/davikomura">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davikomura&show_icons=true&theme=tokyonight&line_height=27" alt="Github stats"/>
 </a>
-<table>
-    <tr>
-        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&hide=html&layout=compact&theme=tokyonight" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=davikomura&theme=tokyonight"/></td>
-    </tr>   
-</table>
 
-- 👋 Oi, me chamo @davikomura
-- Aluno de Graduação em Matemática e Data Science
-- 📫 instagram: @davi_komura20
-- LinkedIn: [![Linkedin Profile](https://img.shields.io/badge/-LinkedIn_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davikomura-2099/)](https://www.linkedin.com/in/davikomura-2099/)<br>
+<br/>
+
+<a href="https://twitter.com/MathStatsdk">
+  <img align="left" alt="Davi Komura Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/davikomura-2099/">
+  <img align="left" alt="Davi Komura Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/davikomura">
+  <img align="left" alt="Davi Komura Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
 <!---
 davikomura/davikomura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
