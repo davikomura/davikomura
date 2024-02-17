@@ -1,16 +1,6 @@
 ### Hi there :bowtie:
-<a href="https://twitter.com/MathStatsdk">
-  <img align="left" alt="Davi Komura Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/davikomura-2099/">
-  <img align="left" alt="Davi Komura Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/davikomura">
-  <img align="left" alt="Davi Komura Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
 <p align="left">
-  <a href="[#](https://github.com/davikomura)" alt="Github">
+  <a href="https://github.com/davikomura" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/davikomura" /></a>
 
   <a href="https://www.linkedin.com/in/davikomura-2099/" alt="Linkedin">
@@ -19,8 +9,8 @@
   <a href="https://twitter.com/MathStatsdk" alt="Twitter">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=MathStatsdk" /></a>
 
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <a href="https://www.instagram.com/davi_komura20/" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/davi_komura20/"/></a>
 </p>  
 
 <br/>
