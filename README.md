@@ -19,6 +19,9 @@
 <a href="https://github.com/davikomura">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&theme=tokyonight&hide_langs_below=1" />
 </a>
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&layout=compact&langs_count=8&theme=radical
+
 <a href="https://github.com/davikomura">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davikomura&show_icons=true&theme=tokyonight&line_height=27" alt="Github stats"/>
 </a>
