@@ -1,13 +1,13 @@
-# Olá, eu sou o Davi! 👋
+# Hello, I'm Davi! 👋
 
-## Sobre mim
+## About Me
 
-Sou **Matemático** e desenvolvedor apaixonado por **tecnologia**, com foco em **Desenvolvimento Web** e **Matemática Aplicada**. Atualmente, estou cursando um **Mestrado em Matemática e Aplicações** na **Universidade da Beira Interior (UBI)**, em Portugal, e tenho uma sólida formação em **ciência de dados** e **machine learning**, além de experiência com **desenvolvimento web full stack**.
+I’m a **Mathematician** and a passionate **technology** enthusiast, with a focus on **Web Development** and **Applied Mathematics**. Currently, I'm pursuing a **Master’s in Mathematics and Applications** at the **University of Beira Interior (UBI)** in Portugal. I have a strong background in **data science** and **machine learning**, along with experience in **full stack web development**.
 
-## O que eu faço 🚀
+## What I Do 🚀
 
-- 🧑‍💻 Fundador da **MDK Studio**, onde lidero o desenvolvimento de soluções web.
-- 🌐 Foco em tecnologias como **React.js**, **Vite**, **HTML5**, **CSS3**, **JavaScript**, **Python**, entre outras.
+- 🧑‍💻 Founder of **MDK Studio**, where I lead the development of web solutions.
+- 🌐 I specialize in technologies such as **React.js**, **Vite**, **HTML5**, **CSS3**, **JavaScript**, **Python**, and more.
 
 <p align="left">
   <a href="https://github.com/davikomura" alt="Github">
