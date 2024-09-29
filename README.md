@@ -1,4 +1,14 @@
-### Hi there :bowtie:
+# Olá, eu sou o Davi! 👋
+
+## Sobre mim
+
+Sou **Matemático** e desenvolvedor apaixonado por **tecnologia**, com foco em **Desenvolvimento Web** e **Matemática Aplicada**. Atualmente, estou cursando um **Mestrado em Matemática e Aplicações** na **Universidade da Beira Interior (UBI)**, em Portugal, e tenho uma sólida formação em **ciência de dados** e **machine learning**, além de experiência com **desenvolvimento web full stack**.
+
+## O que eu faço 🚀
+
+- 🧑‍💻 Fundador da **MDK Studio**, onde lidero o desenvolvimento de soluções web.
+- 🌐 Foco em tecnologias como **React.js**, **Vite**, **HTML5**, **CSS3**, **JavaScript**, **Python**, entre outras.
+
 <p align="left">
   <a href="https://github.com/davikomura" alt="Github">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/davikomura" /></a>
