@@ -2,12 +2,14 @@
 
 ## About Me
 
-I’m a **Mathematician** and a passionate **technology** enthusiast, with a focus on **Web Development** and **Applied Mathematics**. Currently, I'm pursuing a **Master’s in Mathematics and Applications** at the **University of Beira Interior (UBI)** in Portugal. I have a strong background in **data science** and **machine learning**, along with experience in **full stack web development**.
+I am a dedicated mathematician and technology enthusiast with a focus on **frontend development**, **artificial intelligence**, **mathematical research**, and **computational mathematics**. Currently, I am pursuing a Master's in Mathematics and Applications at the University of Beira Interior (UBI) in Portugal, where I deepen my theoretical knowledge and practical skills in these areas.
+
+With a strong background in data science, machine learning, and deep learning, along with extensive experience in web development, I am well-equipped to develop innovative solutions that integrate rigorous mathematical analysis with cutting-edge technologies.
 
 ## What I Do 🚀
 
 - 🧑‍💻 Founder of **MDK Studio**, where I lead the development of web solutions.
-- 🌐 I specialize in technologies such as **React.js**, **Vite**, **HTML5**, **CSS3**, **JavaScript**, **Python**, and more.
+- 🌐 I specialize in technologies such as **ReactJS**, **Typescript**, **NodeJS**, **JavaScript**, **Python**, and more.
 
 <p align="left">
   <a href="https://github.com/davikomura" alt="Github">
@@ -15,12 +17,6 @@ I’m a **Mathematician** and a passionate **technology** enthusiast, with a foc
 
   <a href="https://www.linkedin.com/in/davikomura-2099/" alt="Linkedin">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/davikomura-2099/" /></a>
-
-  <a href="https://twitter.com/MathStatsdk" alt="Twitter">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&link=MathStatsdk" /></a>
-
-  <a href="https://www.instagram.com/davi_komura20/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/davi_komura20/"/></a>
 </p>  
 
 <br/>
