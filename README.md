@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a dedicated mathematician and technology enthusiast with a focus on **frontend development**, **artificial intelligence**, **mathematical research**, and **computational mathematics**. Currently, I am pursuing a Master's in Mathematics and Applications at the University of Beira Interior (UBI) in Portugal, where I deepen my theoretical knowledge and practical skills in these areas.
+I am a dedicated mathematician and technology enthusiast with a focus on **frontend development**, **artificial intelligence**, **mathematical research**, and **computational mathematics**. Currently, I am pursuing a Master's in Mathematics at the Federal University of Itajubá (UNIFEI) in Brazil, where I deepen my theoretical knowledge and practical skills in these areas.
 
 With a strong background in data science, machine learning, and deep learning, along with extensive experience in web development, I am well-equipped to develop innovative solutions that integrate rigorous mathematical analysis with cutting-edge technologies.
 
