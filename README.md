@@ -2,14 +2,14 @@
 
 ## About Me
 
-I am a dedicated mathematician and technology enthusiast with a focus on **frontend development**, **artificial intelligence**, **mathematical research**, and **computational mathematics**. Currently, I am pursuing a Master's in Mathematics at the Federal University of Itajubá (UNIFEI) in Brazil, where I deepen my theoretical knowledge and practical skills in these areas.
+I am a mathematician and technology enthusiast focused on **Fullstack development** and **Mobile development**, with strong experience building scalable, modern, and high-performance applications.
 
-With a strong background in data science, machine learning, and deep learning, along with extensive experience in web development, I am well-equipped to develop innovative solutions that integrate rigorous mathematical analysis with cutting-edge technologies.
+With a solid background in programming and computational mathematics, I combine analytical thinking with practical engineering skills to design robust digital solutions and clean architectures.
 
 ## What I Do 🚀
 
-- 🧑‍💻 Founder of **MDK Studio**, where I lead the development of web solutions.
-- 🌐 I specialize in technologies such as **ReactJS**, **Typescript**, **NodeJS**, **JavaScript**, **Python**, and more.
+- 🧑‍💻 Founder of **MDK Studio**, where I lead the development of web and mobile solutions.
+- 🌐 Fullstack and Mobile Developer specialized in **ReactJS**, **React Native**, **TypeScript**, **NodeJS**, **JavaScript**, **Python**, and modern web/mobile stacks.
 
 <p align="left">
   <a href="https://github.com/davikomura" alt="Github">
@@ -29,7 +29,4 @@ With a strong background in data science, machine learning, and deep learning, a
 <a href="https://github.com/davikomura">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=davikomura&show_icons=true&theme=tokyonight&line_height=27" alt="Github stats"/>
 </a>
-<!---
-davikomura/davikomura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</center>
