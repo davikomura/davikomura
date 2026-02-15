@@ -1,16 +1,24 @@
-# Hello, I'm Davi! 👋
+# Hi, I'm Davi 👋  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Fullstack+%26+Mobile+Engineer;Founder+%40+MDK+Studio;Building+Scalable+Web+%26+Mobile+Apps;Shipping+Fast.+Thinking+Big." />
+</p>
+
+---
 
 ## About Me
 
-I am a **Fullstack and Mobile Developer** with a strong mathematical background and a passion for building scalable, performant, and modern applications.
+I am a **Fullstack and Mobile Engineer** with a strong mathematical background and a passion for building scalable, performant, and modern applications.
 
-I combine analytical thinking with software engineering to design clean architectures, intuitive user experiences, and production-ready systems for web and mobile platforms.
+I focus on **architecture, performance, and product growth**, combining engineering discipline with fast product iteration.
+
+---
 
 ## What I Do 🚀
 
-- 🧑‍💻 Founder of **MDK Studio**, leading the development of web and mobile applications.
-- 📱 Fullstack & Mobile Developer focused on modern JavaScript/TypeScript ecosystems.
-- ⚙️ Building scalable frontends, APIs, and mobile apps with clean architecture and performance-first mindset.
+- 🧑‍💻 Founder of **MDK Studio**, building web and mobile solutions.
+- 📱 Fullstack & Mobile Engineer focused on scalable systems and clean architecture.
+- ⚙️ Designing APIs, frontend systems, and mobile apps with performance-first mindset.
 
 ---
 
@@ -35,11 +43,11 @@ I combine analytical thinking with software engineering to design clean architec
 ## Connect with Me 🌐
 
 <p align="left">
-  <a href="https://github.com/davikomura" alt="Github">
+  <a href="https://github.com/davikomura">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/davikomura-2099/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/davikomura-2099/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -49,7 +57,5 @@ I combine analytical thinking with software engineering to design clean architec
 ## GitHub Stats 📊
 
 <p align="center">
-  <a href="https://github.com/davikomura">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&theme=tokyonight&hide_langs_below=1" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davikomura&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
